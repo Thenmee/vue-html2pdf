@@ -24,7 +24,7 @@
     "html2pdf"
   ],
   "dependencies": {
-    "html2pdf.js": "https://github.com/Thenmee/html2pdf.git"
+    "html2pdf.js": "https://github.com/Thenmee/html2pdf.js.git"
   },
   "devDependencies": {
     "@rollup/plugin-alias": "^2.2.0",
